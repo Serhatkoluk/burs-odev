@@ -1,0 +1,7 @@
+C:\Users\Serhat\Desktop\PT ODEV\burs_odev\bin\Debug\burs_odev.exe.config
+C:\Users\Serhat\Desktop\PT ODEV\burs_odev\bin\Debug\burs_odev.exe
+C:\Users\Serhat\Desktop\PT ODEV\burs_odev\bin\Debug\burs_odev.pdb
+C:\Users\Serhat\Desktop\PT ODEV\burs_odev\obj\Debug\burs_odev.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\PT ODEV\burs_odev\obj\Debug\burs_odev.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\PT ODEV\burs_odev\obj\Debug\burs_odev.exe
+C:\Users\Serhat\Desktop\PT ODEV\burs_odev\obj\Debug\burs_odev.pdb
